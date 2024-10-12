@@ -1,2 +1,3 @@
 # fetal_classification
-csv file downloaded from kaggle
+Data sourced from Kaggle.
+https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
